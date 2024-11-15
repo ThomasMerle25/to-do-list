@@ -1,6 +1,6 @@
-#Interface ToDoList
 
-![Interface ToDoList](./interface_todo.png)
+
+<img width="1440" alt="interface_todo" src="https://github.com/user-attachments/assets/0c815f8b-5993-4d7d-8227-ec5b92e993ce">
 
 
 # Getting Started with Create React App

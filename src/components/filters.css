@@ -1,0 +1,26 @@
+/* filters.css */
+
+.filters {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .filter-button {
+    background: #e9ecef;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+  }
+  
+  .filter-button.active {
+    background: #2c6b2f;
+    color: white;
+  }
+  
+  .filter-button:hover {
+    background: #c8e3a0;
+  }
+  
